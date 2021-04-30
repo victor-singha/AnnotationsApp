@@ -10,6 +10,7 @@ namespace AnnotationsApp
     {
         static void Main(string[] args)
         {
+            AnnotationsTest.Display();
         }
     }
 }
